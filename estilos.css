@@ -9,10 +9,22 @@ h1 {
     margin-left: -100px;
 }
 
-section {
-    width: 350px;
+#Sobremi {
+    position: fixed;
+    left: 14%;
+    width: 400px;
     border: 15px solid rgb(21, 68, 122);
     padding: 10px 20px 40px 10px;
     margin: 0px;
     background-color: rgb(9, 100, 204);
+  }
+  #Perfil {
+    font-size: larger;
+    width:400px;
+    height:45px;
+    position: fixed;
+    top: 20%;
+    left: 40%;
+    margin-top: -100px;
+    margin-left: -100px;
   }
