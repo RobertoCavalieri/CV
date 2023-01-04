@@ -1,0 +1,18 @@
+body { background-color: rgb(199, 192, 192);}
+h1 {
+    width:400px;
+    height:45px;
+    position: fixed;
+    top: 11%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -100px;
+}
+
+section {
+    width: 350px;
+    border: 15px solid rgb(21, 68, 122);
+    padding: 10px 20px 40px 10px;
+    margin: 0px;
+    background-color: rgb(9, 100, 204);
+  }
