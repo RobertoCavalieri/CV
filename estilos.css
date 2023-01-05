@@ -55,3 +55,18 @@ body {
 #PerfilJhon{
   color: azure;
 }
+.carousel-caption{
+  background-color: black;
+  opacity: 0.6;
+  border-radius: 5px;
+  
+}
+.tercero{
+  min-width: 256px;
+}
+.SegundoCarrousel{
+  min-width: 256px;
+}
+.primero{
+  min-width: 256px;
+}
